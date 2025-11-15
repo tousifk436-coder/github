@@ -60,7 +60,7 @@ body {
     width: 80%;
     max-width: 380px;
     border-radius: 50%;
-    box-shadow: 0px 0px 15px black;
+    box-shadow: 0px 0px 15px rgb(231, 154, 154);
 }
 
 #aboutme {
